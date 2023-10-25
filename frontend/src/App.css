@@ -1,0 +1,13 @@
+#random-photo {
+	width: 600px;
+	height: auto;
+}
+
+#breed-photos {
+	width: 300px;
+	height: auto;
+}
+
+.btn:focus {
+	border-width: 3px;
+}
